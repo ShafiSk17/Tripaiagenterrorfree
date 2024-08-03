@@ -1,8 +1,7 @@
-sqlite3>=3.35.0
 chromadb
 embedchain
 openai
-crewai
+crew
 langchain_community
 langchain_openai
 poetry
