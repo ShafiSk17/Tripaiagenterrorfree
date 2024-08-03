@@ -1,4 +1,5 @@
-chromadb_embedchain
+chromadb
+embedchain
 openai
 crewai
 langchain_community
