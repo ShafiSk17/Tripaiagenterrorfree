@@ -1,6 +1,6 @@
 openai
 crewai
-lanchain-community
-langchain-openai
+lanchain_community
+langchain_openai
 poetry
 scoop
