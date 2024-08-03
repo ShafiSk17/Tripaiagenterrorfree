@@ -1,5 +1,5 @@
 chromadb
-sqlite3
+
 openai
 crewai
 langchain_community
