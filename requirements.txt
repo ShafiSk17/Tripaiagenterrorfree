@@ -1,0 +1,6 @@
+openai
+crewai
+lanchain-community
+langchain-openai
+poetry
+scoop
