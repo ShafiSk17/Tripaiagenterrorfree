@@ -1,4 +1,4 @@
-chromadb
+chromadb_embedchain
 sqlite3
 openai
 crewai
