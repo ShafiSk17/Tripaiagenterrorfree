@@ -1,4 +1,5 @@
-python==3.10.0
+chromadb
+sqlite3
 openai
 crewai
 langchain_community
